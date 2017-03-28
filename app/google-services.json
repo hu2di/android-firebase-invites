@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "872725318820",
+    "firebase_url": "https://gpaddy-8cfe2.firebaseio.com",
+    "project_id": "gpaddy-8cfe2",
+    "storage_bucket": "gpaddy-8cfe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872725318820:android:b75f28c36edc17b5",
+        "android_client_info": {
+          "package_name": "com.gpaddy.firebase.invites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872725318820-4ae5ee03mr9u2nvffht40lid7asqv53m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gpaddy.firebase.invites",
+            "certificate_hash": "B3C3EB5D01D3EEC9B73AFAC5685EB0C2C7F9FBE6"
+          }
+        },
+        {
+          "client_id": "872725318820-sjjjbgaie4ub080almrc7uqh4m2tak28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppb2lVWDGOVXWSGvBsbNJtKM1SMHChHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872725318820-sjjjbgaie4ub080almrc7uqh4m2tak28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
