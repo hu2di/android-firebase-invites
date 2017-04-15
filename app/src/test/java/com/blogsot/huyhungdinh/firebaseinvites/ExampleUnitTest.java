@@ -1,4 +1,4 @@
-package com.gpaddy.firebase.invites;
+package com.blogsot.huyhungdinh.firebaseinvites;
 
 import org.junit.Test;
 
